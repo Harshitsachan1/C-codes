@@ -1,7 +1,9 @@
 #include<stdio.h> 
 int main()
 { 
+        // Declayer variable//
 	double firstNumber, secondNumber;
+	
 	 printf("Enter first number:"); 
 	 scanf("%lf", &firstNumber); 
 	 printf("Enter second number:"); 
